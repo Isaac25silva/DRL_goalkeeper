@@ -1,4 +1,4 @@
-# TRANSFER WEIGHTS LEARNED IN SIMULATOR TO PERFORMED IN THE REAL ROBOT
+# Deep Reinforcement Learning in a GoalKeeper Robot
 
 
 This repository presents the DRL source code that made the learning of the images from the Webots simulator,
@@ -24,7 +24,7 @@ pip install h5py
 
 Once you have installed everything, you can try out a simple example:
 ```bash
-python examples/duel_dqn_transf.py
+python examples/duel_dqn_goalkeeper.py
 ```
 
 ## Requirements
